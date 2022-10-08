@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-app/static/js/main.d5567143.js",
-    "index.html": "/react-app/index.html",
-    "main.d5567143.js.map": "/react-app/static/js/main.d5567143.js.map"
+    "main.js": "/static/js/main.d5567143.js",
+    "index.html": "/index.html",
+    "main.d5567143.js.map": "/static/js/main.d5567143.js.map"
   },
   "entrypoints": [
     "static/js/main.d5567143.js"
