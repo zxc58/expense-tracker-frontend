@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-app/static/js/main.af59c364.js",
-    "index.html": "/react-app/index.html",
-    "main.af59c364.js.map": "/react-app/static/js/main.af59c364.js.map"
+    "main.js": "/expense-tracker-frontend/static/js/main.af59c364.js",
+    "index.html": "/expense-tracker-frontend/index.html",
+    "main.af59c364.js.map": "/expense-tracker-frontend/static/js/main.af59c364.js.map"
   },
   "entrypoints": [
     "static/js/main.af59c364.js"
